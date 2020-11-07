@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardapioLista</string>
+    <string name="name_product">Nome Produto</string>
+    <string name="ingredientes_examplo">Ingredientes: Ingrediente 01, Ingrediente 02, Ingrediente 03, Ingrediente 04</string>
+</resources>
